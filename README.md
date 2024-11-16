@@ -28,12 +28,22 @@ This dataset contains detailed information on employees across various departmen
 1. **Which departments have the highest and lowest average tenure?**
    - Environmental Health/Safety Department: **6.3 years** (highest).
    - Research/Development: **4.8 years** (lowest).
+![alt text](<visualizations/Charts/departments with the highest and lowest average tenure.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\departments with the highest and lowest average tenure.png")
 
 2. **What percentage of employees have been with the company for more than five years?**  
-   - **37%** (257 employees) of the total workforce (697) have been with the company for over 5 years.
+   - **37%** 
+(257 employees) of the total workforce (697) have been with the company for over 5 years.
+![alt text](<visualizations/Charts/percentage of employees have been with the company for more than five years.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\percentage of employees have been with the company for more than five years.png")
+
    - **By department**:
      - **Manufacturing**: Highest count with 55 employees (21.4% of total employees with over 5 years tenure).
      - **Research/Development**: Lowest count with 1 employee (0.1%).
+![alt text](<visualizations/Charts/percentage of employees have been with the company for more than five years by dept.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\percentage of employees have been with the company for more than five years by dept.png")
+
+     
 
 ---
 
@@ -41,10 +51,16 @@ This dataset contains detailed information on employees across various departmen
 3. **What is the average monthly salary by department and country?**
    - **Environmental Compliance**: Highest average monthly salary of **$2.7k**, with Syria leading at **$3.2k**.
    - **Research Center**: Lowest average salary of **$1.8k**, with Saudi Arabia at **$2.8k**.
+![alt text](<visualizations/Charts/average monthly salary by department and country.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\average monthly salary by department and country.png")
 
 4. **How does the salary differ by gender across departments or countries?**
    - In most departments (13 out of 20), males earn more than females by **$100–$500** on average.
    - Notable exception: **Environmental Health/Safety**, where females earn **$1.2k** more on average ($2.9k vs. $1.7k).
+![alt text](<visualizations/Charts/salary differ by gender across countrys.png>)
+![alt text](<visualizations/Charts/salary differ by gender across departments.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\salary differ by gender across countrys.png")
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\salary differ by gender across departments.png")
 
 5. **Are there any employees whose monthly salary doesn’t align with their annual salary (suggesting potential data errors)?**
    - No discrepancies found between monthly and annual salary figures.
@@ -55,10 +71,14 @@ This dataset contains detailed information on employees across various departmen
 6. **What is the average number of sick and unpaid leaves taken by employees in each department?**
    - **Research Center**: Highest average leaves (6 total: 2 unpaid and 4 sick).
    - **Research Department**: Lowest average leaves (1 sick leave).
+![alt text](<visualizations/Charts/average number of sick and unpaid leaves taken by employees in each department.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\average number of sick and unpaid leaves taken by employees in each department.png")
+
 
 7. **How does the number of leaves taken correlate with the job rate?**
    - No significant patterns. Employees with the highest leave count (12 days) averaged a job rating of **1.0**.
-
+![alt text](<visualizations/Charts/number of leaves taken correlate with the job rate.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\number of leaves taken correlate with the job rate.png")
 ---
 
 ### **4. Overtime and Compensation Balance**
@@ -66,6 +86,8 @@ This dataset contains detailed information on employees across various departmen
    - **Omar Hishan (Quality Control)**: Most overtime hours (198), earning **$3,247/month**.
    - **Ghadir Hmshw (Quality Control)**: 183 overtime hours, earning **$1,560/month**.
    - No consistent correlation observed between overtime hours and salary.
+![alt text](<visualizations/Charts/employees have the highest number of overtime hours.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\employees have the highest number of overtime hours.png")
 
 ---
 
@@ -73,8 +95,12 @@ This dataset contains detailed information on employees across various departmen
 9. **Which countries show a high count of employees with below-average job ratings and low tenure?**
    - **Egypt**: Highest count (8 employees).
 
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\countries show a high count of employees with below-average job ratings and low tenure.png")
+
 10. **Which departments show a high count of employees with below-average job ratings and low tenure?**
    - **Manufacturing**: 4 employees.
+![alt text](<visualizations/Charts/countries show a high count of employees with below-average job ratings and low tenure.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\departments show a high count of employees with below-average job ratings and low tenure.png")
 
 ---
 
@@ -83,17 +109,27 @@ This dataset contains detailed information on employees across various departmen
    - **Egypt**: Most employees (379), average monthly salary of **$2.1k**.
    - **Lebanon**: Fewest employees (11), average salary of **$1.8k**.
    - **Main Center**: Largest center (251 employees), average salary of **$2.1k**.
+![alt text](<visualizations/Charts/Employee count & Average Salary by Country.png>)
+![alt text](<visualizations/Charts/Employee count & Average Salary by Center.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\Employee count & Average Salary by Country.png")
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\Employee count & Average Salary by Center.png")
 
 12. **What is the distribution of genders across departments, countries, and centers?**
    - Males constitute the majority across all categories. Gender ratios vary slightly but males consistently outnumber females.
-
+![alt text](<visualizations/Charts/distribution of genders across countries.png>)
+![alt text](<visualizations/Charts/Distribution of genders across centers.png>)
+![alt text](<visualizations/Charts/Genders count across Departments.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\distribution of genders across countries.png")
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\Distribution of genders across centers.png")
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\Genders count across Departments.png")
 ---
 
 ### **7. Job Performance Ratings Analysis**
 13. **What is the average job rate in each department, and does it vary significantly by countries?**
    - Departments like **Human Resources**, **Major Manufacturing Projects**, and **Research Center** have the highest average job ratings (**5.0**).
    - Countries like **Syria** tend to have higher job ratings across major departments.
-
+![alt text](<visualizations/Charts/Avg Job Rate in each Department across all countries.png>)
+("C:\Users\ed\TUTORIALLLL\Employees\Employees-Performance-Analysis\visualizations\Charts\Avg Job Rate in each Department across all countries.png")
 ---
 
 ## Acknowledgment
