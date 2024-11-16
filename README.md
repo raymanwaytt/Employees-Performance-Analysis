@@ -97,6 +97,6 @@ This dataset contains detailed information on employees across various departmen
 ---
 
 ## Acknowledgment
-- Dataset sourced from [Kaggle](https://www.kaggle.com).
+- Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/abdallahwagih/company-employees).
 
 ---
