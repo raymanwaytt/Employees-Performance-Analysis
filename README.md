@@ -49,7 +49,7 @@ This dataset contains detailed information on employees across various departmen
    - **Environmental Compliance**: Highest average monthly salary of **$2.7k**, with Syria leading at **$3.2k**.
    - **Research Center**: Lowest average salary of **$1.8k**, with Saudi Arabia at **$2.8k**.
 
-![average monthly salary by department and country](Charts/average-monthly-salary-by-department-&-country.png)
+![average monthly salary by department and country](Charts/average-monthly-salary by-department-and-country.png)
 
 4. **How does the salary differ by gender across departments or countries?**
    - In most departments (13 out of 20), males earn more than females by **$100–$500** on average.
