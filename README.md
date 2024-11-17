@@ -49,7 +49,7 @@ This dataset contains detailed information on employees across various departmen
    - **Environmental Compliance**: Highest average monthly salary of **$2.7k**, with Syria leading at **$3.2k**.
    - **Research Center**: Lowest average salary of **$1.8k**, with Saudi Arabia at **$2.8k**.
 
-![average monthly salary by department and country](Charts/average-monthly-salary-by-department-and-country.png)
+![average monthly salary by department and country](Charts/average-monthly-salary-by-department-&-country.png)
 
 4. **How does the salary differ by gender across departments or countries?**
    - In most departments (13 out of 20), males earn more than females by **$100–$500** on average.
@@ -74,7 +74,7 @@ This dataset contains detailed information on employees across various departmen
 7. **How does the number of leaves taken correlate with the job rate?**
    - No significant patterns. Employees with the highest leave count (12 days) averaged a job rating of **1.0**.
 
-![number of leaves taken correlate with the job rate](Charts/number-of-leaves-taken-correlation-with-the-job-rate.png)
+![number of leaves taken correlate with the job rate](Charts/number-of-leaves-taken-correlate-with-the-job-rate.png)
 
 ### **4. Overtime and Compensation Balance**
 8. **Which employees have the highest number of overtime hours, and how does it relate to their monthly salary?**
@@ -103,9 +103,9 @@ This dataset contains detailed information on employees across various departmen
    - **Lebanon**: Fewest employees (11), average salary of **$1.8k**.
    - **Main Center**: Largest center (251 employees), average salary of **$2.1k**.
 
-![Employee count & Average Salary by Country](Charts/Employee-count-and-Average-Salary-by-Country.png)
+![Employee count & Average Salary by Country](Charts/Employee-count-&-Average-Salary-by-Country.png)
 
-![Employee count & Average Salary by Center](Charts/Employee-count-and-Average-Salary-by-Center.png)
+![Employee count & Average Salary by Center](Charts/Employee-count-&-Average-Salary-by-Center.png)
 
 12. **What is the distribution of genders across departments, countries, and centers?**
    - Males constitute the majority across all categories. Gender ratios vary slightly but males consistently outnumber females.
